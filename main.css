@@ -1,0 +1,49 @@
+.main-header {
+  background-color: #789461;
+}
+.main-header .container {
+  max-width: 1080px;
+}
+.main-header .container h2 {
+  color: #fff;
+  font-size: 36px;
+}
+.main-header .container ul, .main-header .container li, .main-header .container a {
+  color: #fff;
+  font-size: 24px;
+  padding-left: 30px;
+}
+.main-header .container ul a, .main-header .container ul i, .main-header .container li a, .main-header .container li i, .main-header .container a a, .main-header .container a i {
+  padding-right: 15px;
+}
+
+section {
+  padding-top: 110px;
+}
+section .container {
+  color: #789461;
+}
+section .container button {
+  color: #fff;
+  background-color: #789461;
+}
+section .container h3 {
+  color: #789461;
+}
+section .container thead {
+  color: #789461;
+}
+
+.modal header, .modal h2 {
+  color: #789461;
+  text-align: center;
+}
+.modal .form-group span, .modal .form-group i {
+  color: #789461;
+  background-color: #fff;
+}
+.modal .modal-footer button {
+  color: #fff;
+  background-color: #789461;
+  border: #789461;
+}/*# sourceMappingURL=main.css.map */
